@@ -19,7 +19,7 @@ async function main() {
 
   await greeter.deployed();
 
-  console.log("Greeter deployed to test changes:", greeter.address);
+  console.log("Greeter deployed to test changes 2:", greeter.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere
